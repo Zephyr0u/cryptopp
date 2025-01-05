@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+  pull_request:
 
     runs-on: ubuntu-latest
 
