@@ -12,7 +12,7 @@
 #
 # To use the script, copy the script to the root of the Crypto++ directory.
 # Set the environment, and then run the tool:
-#
+# //kkk
 #   export CXX="..."
 #   export CXXFLAGS="..."
 #   export LDFLAGS="..."
