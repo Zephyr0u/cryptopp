@@ -11,7 +11,8 @@ task:
 nv:
   CIRRUS_CLONE_DEPTH: 5
   IGNORE_OSVERSION: yes
-
+  CIRRUS_CLONE_DEPTH: 5
+  IGNORE_OSVERSION: yes
 task:
   matrix:
   matrix:
