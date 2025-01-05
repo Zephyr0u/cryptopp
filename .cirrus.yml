@@ -8,6 +8,12 @@ env:
   IGNORE_OSVERSION: yes
 
 task:
+nv:
+  CIRRUS_CLONE_DEPTH: 5
+  IGNORE_OSVERSION: yes
+
+task:
+  matrix:
   matrix:
     - name: Debug build, FreeBSD 13.2
       freebsd_instance:
